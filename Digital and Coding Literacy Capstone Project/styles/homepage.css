@@ -1,0 +1,31 @@
+/* nav bar */
+
+.navigation-wrapper { 
+    height: 170px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navigation-wrapper > .logo-wrapper img {
+    height: 140px;
+    width: 260px;
+    padding: 0px;
+}
+
+.navigation-wrapper > .main-menu-explore {
+    color: #ffdd40;
+    font-weight: 400;
+    font-size: .8rem;
+    margin 1.5rem 0 .35rem;
+    font-display: 'Lato', 'Sans-Serif';
+}
+
+.navigation-wrapper > .nav-link {
+    color: black;
+    font-size: .65rem;
+    display: grid;
+    
+    font-family: 'Lato', 'Sans-Serif';
+}
