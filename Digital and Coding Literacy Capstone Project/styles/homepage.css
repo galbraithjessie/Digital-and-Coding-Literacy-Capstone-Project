@@ -184,10 +184,11 @@
 .bottom-homepage > .privacy h1 {
     font-weight: 30;
     font-family: 'Lato', 'Sans-Serif';  
-    margin: 35px 0px 10px 85px;
+    margin: 25px 0px 10px 85px;
 }
 
 .bottom-homepage > .privacy span {
+    font-size: 1.25em;
     font-weight: 300;
 }
 
@@ -202,10 +203,11 @@
 .bottom-homepage > .writing h1 {
     font-weight: 30; 
     font-family: 'Lato', 'Sans-Serif';  
-    margin: 35px 0px 10px 85px;
+    margin: 25px 0px 10px 85px;
 }
 
 .bottom-homepage > .writing span {
+    font-size: 1.25em;
     font-weight: 300;
 }
 
